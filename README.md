@@ -25,37 +25,35 @@
 
 ---
 
-## 🛠️ Skills  
+## 🕵️‍♂️ Reverse Engineering Quote
+
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,typescript,javascript,react,nextjs,nodejs,express,java,dotnet,mongodb,flutter,python,cpp&perline=7)]()  
-
-</br>  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukiharadev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+> **"Everything is source if you debunk it."**  
+> <br>
+> <sub>– Some random famous reverse engineering guy</sub>
 
 </div>
 
 ---
 
-## 🕵️‍♂️ Reverse Engineering Quotes
-
+## 🛠️ Skills  
 <div align="center">
-  
-> “It’s not a bug, it’s an undocumented feature.”  
-> 
-> “If you stare at assembly long enough, assembly stares back.”  
-> 
-> “I don’t break software. I just discover what the developers left behind.”  
->
-> “Reverse engineering: because sometimes, the only documentation is the binary.”  
->
-> “Why read the manual when you can read the memory?”  
->
-> “When in doubt, nop it out.”  
->
-> “Decompile, de-stress, debug, repeat.”  
-  
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,typescript,javascript,react,nextjs,nodejs,express,java,dotnet,mongodb,flutter,python,cpp&perline=7)]()  
+
+<br>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/48/IDA_Pro_logo.png" alt="IDA" title="IDA Pro" width="32" height="32"/>
+<img src="https://github.com/icsharpcode/ILSpy/raw/main/images/icon.png" alt="ILSpy" title="ILSpy" width="32" height="32"/>
+<img src="https://raw.githubusercontent.com/dnSpy/dnSpy/master/dnSpy/dnSpy/images/Logo.png" alt="dnSpy" title="dnSpy" width="32" height="32"/>
+<img src="https://resources.jetbrains.com/storage/products/dotpeek/img/meta/dotpeek_logo_300x300.png" alt="dotPeek" title="dotPeek" width="32" height="32"/>
+<img src="https://cheatengine.org/themes/ce/images/cheatengine-icon.png" alt="Cheat Engine" title="Cheat Engine" width="32" height="32"/>
+
+</br>  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukiharadev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 ---
@@ -66,7 +64,7 @@
 - **[B3 Editor](https://github.com/YOUR_B3_EDITOR_REPO)** — *Mind map & behavior tree editor for game devs.*
 - **[Vienna/Glorp Browser](https://github.com/YOUR_Glorp_REPO)** — *A next-gen browser with agentic AI assistant.*
 
-*(Feel free to add links to your actual project repos above!)*
+*(Update repo links as needed!)*
 
 ---
 
