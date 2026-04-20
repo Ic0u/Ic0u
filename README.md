@@ -29,11 +29,13 @@
 
 **Systems · Desktop · Embedded**
 
-<img src="https://skillicons.dev/icons?i=rust,swift,cpp,python,dotnet,linux,bash,arduino&perline=8" />
+<img src="https://skillicons.dev/icons?i=rust,swift,linux,bash,arduino&perline=8" />
 
 **Web · Frontend**
 
-<img src="https://skillicons.dev/icons?i=svelte,solidjs,react,nextjs,vue,ts,js,tailwind&perline=8" />
+<img src="https://skillicons.dev/icons?i=svelte,solidjs,react,nextjs,vue,ts,js,tailwind,bootstrap&perline=9" />
+<br/>
+<img src="https://img.shields.io/badge/shadcn%2Fui-%23111111?style=flat-square&logo=shadcn&logoColor=white" />
 
 **Desktop Frameworks**
 
@@ -41,7 +43,13 @@
 
 **Backend · Infra · DevOps**
 
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,postgres,mongodb,docker,aws,git&perline=8" />
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,docker,aws,git&perline=8" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb&perline=8" />
+<br/>
+<img src="https://img.shields.io/badge/SQL_Server-%23111111?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927" />
 
 **Testing · API · Automation**
 
@@ -62,7 +70,7 @@
 **Creative**
 
 <img src="https://skillicons.dev/icons?i=ps,ai,ae,pr&perline=8" />
-&nbsp;
+<br/>
 <img src="https://img.shields.io/badge/Final_Cut_Pro-%23111111?style=flat-square&logo=apple&logoColor=white" />
 <img src="https://img.shields.io/badge/CapCut-%23111111?style=flat-square" />
 
@@ -72,17 +80,21 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ic0u&theme=github_dark" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ic0u&bg_color=0D1117&color=666666&line=444444&point=ffffff&area=true&area_color=222222&hide_border=true&custom_title=Contribution+Activity" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ic0u&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=ffffff&icon_color=ffffff&text_color=666666&include_all_commits=true&count_private=true&rank_icon=github" height="180" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ic0u&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=666666&langs_count=10&hide=css" height="180" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ic0u&theme=github_dark" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ic0u&theme=github_dark" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ic0u&theme=github_dark" width="32%" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ic0u&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1a1a1a&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=666666&dates=444444" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ic0u&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1a1a1a&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=666666&dates=444444&mode=weekly" />
 
 </div>
 
