@@ -2,56 +2,49 @@
 
   <img src="https://media4.giphy.com/media/7q9TwhbiPhphcEQKLS/giphy.gif?cid=82a1493beg61fn0y7nwclv429yuvkb0cb0jei9c7no3e6gp0&ep=v1_videos_related&rid=giphy.gif&ct=v" style="width:100%; max-width:680px; border-radius:18px; margin-bottom:15px;" />
 
-  <h1 align="center">Nguyễn Nam</h1>
-  <sub><kbd>Reverse Engineer / Web Dev</kbd></sub>
+  <h1 align="center">Nam Nguyen</h1>
+  <sub><kbd>Reverse Engineer / Systems & Web Developer</kbd></sub>
   <br/><br/>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F77502&center=true&vCenter=true&width=440&lines=I+want+to+be+a+web+developer;I+want+to+be+a+cybersecurity+expert" />
-  
-  <br>
-  
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="340" style="border-radius:14px;" />
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=440&lines=Building+high-performance+systems;Everything+is+source+if+you+debunk+it" />
   
   <br><br>
 
-  <!-- YouTube Embed (centered, with fallback link) -->
   <a href="https://youtu.be/w_lJDjgWa4Y" target="_blank">
     <img src="https://img.youtube.com/vi/w_lJDjgWa4Y/maxresdefault.jpg" width="480" style="border-radius:15px; margin-bottom:8px;" alt="YouTube Video"/>
   </a>
   <br>
-  <sup><a href="https://youtu.be/w_lJDjgWa4Y" target="_blank">▶️ Watch </a></sup>
+  <sup><a href="https://youtu.be/w_lJDjgWa4Y" target="_blank">Watch Video</a></sup>
   
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🏫 **FPT Polyschool** student  
-- 🌱 Learning **.Net WPF**, obsessed with making things work that shouldn’t  
-- 🛠️ Hobbyist reverse engineer, web dev, sometimes sleep
-- 📫 **nam.nguyen2208yt@gmail.com**  
-- 🌐 [**Portfolio**](https://www.nguyenhwang.me/)
+* **Education:** FPT Polyschool student
+* **Focus:** High-performance desktop tools, backend systems, and custom utilities
+* **Interests:** Reverse engineering, .NET WPF, system optimization
+* **Contact:** nam.nguyen2208yt@gmail.com
+* **Portfolio:** [nguyenhwang.me](https://www.nguyenhwang.me/)
 
 ---
 
 <div align="center">
   <blockquote>
-    <b>“Everything is source if you debunk it.”</b><br>
+    <b>"Everything is source if you debunk it."</b><br>
     <sub>– some skids</sub>
   </blockquote>
 </div>
 
 ---
 
-## 🛠️ Tech & Tools
+## Tech & Tools
 
 <div align="center">
 
-<!-- Main dev stack -->
-<img src="https://skillicons.dev/icons?i=html,css,typescript,javascript,react,nextjs,nodejs,express,java,dotnet,mongodb,flutter,python,cpp&perline=7" alt="Skills" /><br><br>
+<img src="https://skillicons.dev/icons?i=rust,swift,cpp,java,nodejs,ts,js,svelte,solidjs,html,css,tailwind,postgres,mongodb,dotnet,python&perline=8" alt="Core Skills" /><br><br>
 
-<!-- Reverse engineering tools -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/IDA_Pro_logo.png" alt="IDA" title="IDA Pro" width="32" height="32" style="margin-right:8px;"/>
 <img src="https://github.com/icsharpcode/ILSpy/raw/main/images/icon.png" alt="ILSpy" title="ILSpy" width="32" height="32" style="margin-right:8px;"/>
 <img src="https://raw.githubusercontent.com/dnSpy/dnSpy/master/dnSpy/dnSpy/images/Logo.png" alt="dnSpy" title="dnSpy" width="32" height="32" style="margin-right:8px;"/>
@@ -63,22 +56,20 @@
 <br>
 
 <div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukiharadev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ic0u&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
 </div>
 
 ---
 
-## 🚀 Projects
+## Projects
 
-- **[Noir](https://github.com/YOUR_Glidr_REPO)** — *Blazing-fast note-taking app (Obsidian + Notion inspired)*
-- **[B3 Editor](https://github.com/YOUR_B3_EDITOR_REPO)** — *Mind map & behavior tree editor for game devs*
-- **[Noir A4 LLMS](https://github.com/YOUR_Glorp_REPO)** — *AI-powered agentic browser, Arc/Comet vibes*
+* **[Noir](https://github.com/Ic0u/Noir)** — Blazing-fast note-taking app (Obsidian + Notion inspired)
+* **[B3 Editor](https://github.com/Ic0u/B3-Editor)** — Mind map & behavior tree editor for game devs
+* **[Noir A4 LLMS](https://github.com/Ic0u/Noir-A4)** — AI-powered agentic browser (Arc/Comet vibes)
 
 ---
 
-## 📱 Connect With Me
+## Connect
 
 <div align="center">
   <a href="https://www.facebook.com/nam.nguyen2208/" target="_blank">
@@ -101,5 +92,5 @@
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yukiharadev&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Ic0u&style=for-the-badge"/>
 </div>
