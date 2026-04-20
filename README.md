@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ic0u/Ic0u/main/586982635_122131855802973772_3167075674693343570_n.jpg" width="100%" style="border-radius: 18px; margin-bottom: 15px;" alt="Profile Banner"/>
+  <img src="https://raw.githubusercontent.com/Ic0u/Ic0u/main/Creative_2_2832018.jpg" width="100%" style="border-radius: 18px; margin-bottom: 15px;" alt="Profile Banner"/>
 </div>
 
 <div align="center">
