@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./586982635_122131855802973772_31670756746933343570_n.jpg" width="100%" style="border-radius:18px; margin-bottom:15px;" alt="Profile Banner"/>
+  <img src="/586982635_122131855802973772_31670756746933343570_n.jpg" width="100%" style="border-radius:18px; margin-bottom:15px;" alt="Profile Banner"/>
 </div>
 
 <div align="center">
