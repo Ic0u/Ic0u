@@ -1,6 +1,8 @@
 <div align="center">
+  <img src="./586982635_122131855802973772_31670756746933343570_n.jpg" width="100%" style="border-radius:18px; margin-bottom:15px;" alt="Profile Banner"/>
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=15&pause=1200&color=888888&center=true&vCenter=true&width=500&lines=Building+high-performance+systems.;Breaking+things+to+understand+them.;Everything+is+source+if+you+debunk+it." />
+<div align="center">
 
 <br/>
 
@@ -26,6 +28,10 @@
 ---
 
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=15&pause=1200&color=888888&center=true&vCenter=true&width=500&lines=Building+high-performance+systems.;Breaking+things+to+understand+them.;Everything+is+source+if+you+debunk+it." />
+</div>
+
+<div align="center">
 
 **Systems · Desktop · Embedded**
 
@@ -39,7 +45,7 @@
 
 **Desktop Frameworks**
 
-<img src="https://skillicons.dev/icons?i=tauri,electron&perline=8" />
+<img src="https://skillicons.dev/icons?i=tauri&perline=8" />
 
 **Backend · Infra · DevOps**
 
@@ -49,7 +55,7 @@
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb&perline=8" />
 <br/>
-<img src="https://img.shields.io/badge/SQL_Server-%23111111?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927" />
+<img src="https://img.shields.io/badge/SQL_Server-%23111111?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
 
 **Testing · API · Automation**
 
@@ -60,19 +66,19 @@
 
 **Reverse Engineering**
 
-<img src="https://img.shields.io/badge/IDA_Pro-%23111111?style=flat-square" />
-<img src="https://img.shields.io/badge/ILSpy-%23111111?style=flat-square" />
-<img src="https://img.shields.io/badge/dnSpy-%23111111?style=flat-square" />
-<img src="https://img.shields.io/badge/dotPeek-%23111111?style=flat-square" />
-<img src="https://img.shields.io/badge/Cheat_Engine-%23111111?style=flat-square" />
-<img src="https://img.shields.io/badge/x64dbg-%23111111?style=flat-square" />
+<img src="https://img.shields.io/badge/IDA_Pro-%23111111?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/ILSpy-%23111111?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/dnSpy-%23111111?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/dotPeek-%23111111?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Cheat_Engine-%23111111?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/x64dbg-%23111111?style=flat-square&logoColor=white" />
 
 **Creative**
 
 <img src="https://skillicons.dev/icons?i=ps,ai,ae,pr&perline=8" />
 <br/>
 <img src="https://img.shields.io/badge/Final_Cut_Pro-%23111111?style=flat-square&logo=apple&logoColor=white" />
-<img src="https://img.shields.io/badge/CapCut-%23111111?style=flat-square" />
+<img src="https://img.shields.io/badge/CapCut-%23111111?style=flat-square&logoColor=white" />
 
 </div>
 
@@ -80,7 +86,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ic0u&bg_color=0D1117&color=666666&line=444444&point=ffffff&area=true&area_color=222222&hide_border=true&custom_title=Contribution+Activity" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ic0u&bg_color=00000000&color=888888&line=555555&point=ffffff&area=true&area_color=111111&hide_border=true&custom_title=Contribution+Activity" />
 
 </div>
 
@@ -88,20 +94,18 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ic0u&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=ffffff&icon_color=ffffff&text_color=666666&include_all_commits=true&count_private=true&rank_icon=github" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ic0u&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=888888&count_private=true&rank_icon=github" height="180" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ic0u&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=666666&langs_count=10&hide=css" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ic0u&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=888888&langs_count=10&hide=css" height="180" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ic0u&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1a1a1a&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=666666&dates=444444&mode=weekly" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ic0u&theme=transparent&hide_border=true&stroke=1a1a1a&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=555555&mode=weekly" />
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d0d0d&height=100&section=footer&reversal=false" width="100%" />
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ic0u&style=flat-square&color=111111&label=profile+views" />
+  <img src="https://komarev.com/ghpvc/?username=Ic0u&style=flat-square&color=111111&label=VISITS" />
 </div>
