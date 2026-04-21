@@ -1,14 +1,8 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Ic0u/Ic0u/main/AI-1.png" width="100%" style="border-radius: 18px; margin-bottom: 15px;" alt="Profile Banner"/>
 </div>
-
 <div align="center">
-
- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Ic0u&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
-</div>
-
----
-
+ [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Ic0u&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23111111?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nam-nguyen-6173271b4/)
@@ -27,16 +21,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=14&pause=1200&color=888888&center=true&vCenter=true&width=520&lines=Building+high-performance+systems.;Breaking+things+to+understand+them.;Everything+is+source+if+you+debunk+it." />
 </div>
-
----
-
-<div align="center">
-
-### Currently
-
-**Building** — Tauri desktop utilities, Swift macOS tooling  
-**Breaking** — .NET assemblies, native binaries, game internals  
-**Learning** — advanced Rust async patterns, LLVM internals
 
 </div>
 
@@ -168,10 +152,10 @@
 ### Pinned Focus
 
 <a href="https://github.com/Ic0u">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ic0u&repo=REPO_NAME_1&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=ffffff&text_color=888888" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ic0u&repo=https://github.com/Ic0u/TikTok-Video-Downloader&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=ffffff&text_color=888888" />
 </a>
 <a href="https://github.com/Ic0u">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ic0u&repo=REPO_NAME_2&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=ffffff&text_color=888888" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ic0u&repo=Rokio&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=ffffff&text_color=888888" />
 </a>
 
 </div>
@@ -179,5 +163,5 @@
 ---
 
 <div align="center">
-  <sub>Crafted on macOS · WebKit purist · Zero Chromium tolerance</sub>
+  <sub>Thank You For Reading</sub>
 </div>
