@@ -1,8 +1,17 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Ic0u/Ic0u/main/AI-1.png" width="100%" style="border-radius: 18px; margin-bottom: 15px;" alt="Profile Banner"/>
 </div>
+
 <div align="center">
- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Ic0u&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox
+
+<br/>
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Ic0u&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
+
+</div>
+
+---
+
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23111111?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nam-nguyen-6173271b4/)
@@ -19,47 +28,34 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=14&pause=1200&color=888888&center=true&vCenter=true&width=520&lines=Building+high-performance+systems.;Breaking+things+to+understand+them.;Everything+is+source+if+you+debunk+it." />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=15&pause=1200&color=888888&center=true&vCenter=true&width=500&lines=Building+high-performance+systems.;Breaking+things+to+understand+them.;Everything+is+source+if+you+debunk+it." />
 </div>
-
-</div>
-
----
 
 <div align="center">
 
 **Systems · Desktop · Embedded**
 
-<img src="https://skillicons.dev/icons?i=rust,swift,cpp,c,python,dotnet,linux,bash,arduino&perline=9" />
+<img src="https://skillicons.dev/icons?i=rust,swift,linux,bash,arduino&perline=8" />
 
 **Web · Frontend**
 
-<img src="https://skillicons.dev/icons?i=svelte,solidjs,react,nextjs,vue,ts,js,tailwind,bootstrap,sass&perline=10" />
+<img src="https://skillicons.dev/icons?i=svelte,solidjs,react,nextjs,vue,ts,js,tailwind,bootstrap&perline=9" />
 <br/>
-<img src="https://img.shields.io/badge/shadcn%2Fui-%23111111?style=flat-square&logo=shadcnui&logoColor=white" />
-<img src="https://img.shields.io/badge/Stitches-%23111111?style=flat-square&logoColor=white" />
-
-**Mobile**
-
-<img src="https://skillicons.dev/icons?i=react,flutter&perline=8" />
-<img src="https://img.shields.io/badge/Expo-%23111111?style=flat-square&logo=expo&logoColor=white" />
+<img src="https://img.shields.io/badge/shadcn%2Fui-%23111111?style=flat-square&logo=shadcn&logoColor=white" />
 
 **Desktop Frameworks**
 
 <img src="https://skillicons.dev/icons?i=tauri&perline=8" />
-<img src="https://img.shields.io/badge/WPF-%23111111?style=flat-square&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/SwiftUI-%23111111?style=flat-square&logo=swift&logoColor=white" />
 
 **Backend · Infra · DevOps**
 
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,docker,aws,git,github&perline=8" />
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,docker,aws,git&perline=8" />
 
 **Databases**
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb&perline=8" />
 <br/>
 <img src="https://img.shields.io/badge/SQL_Server-%23111111?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure_Data_Studio-%23111111?style=flat-square&logo=microsoftazure&logoColor=white" />
 
 **Testing · API · Automation**
 
@@ -76,18 +72,13 @@
 <img src="https://img.shields.io/badge/dotPeek-%23111111?style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/Cheat_Engine-%23111111?style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/x64dbg-%23111111?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Ghidra-%23111111?style=flat-square&logoColor=white" />
 
 **Creative**
 
-<details>
-<summary><sub>Creative Suite</sub></summary>
-<br/>
 <img src="https://skillicons.dev/icons?i=ps,ai,ae,pr&perline=8" />
 <br/>
 <img src="https://img.shields.io/badge/Final_Cut_Pro-%23111111?style=flat-square&logo=apple&logoColor=white" />
 <img src="https://img.shields.io/badge/CapCut-%23111111?style=flat-square&logoColor=white" />
-</details>
 
 </div>
 
@@ -95,9 +86,7 @@
 
 <div align="center">
 
-### Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ic0u&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ic0u&bg_color=00000000&color=888888&line=555555&point=ffffff&area=true&area_color=111111&hide_border=true&custom_title=Contribution+Activity" />
 
 </div>
 
@@ -105,63 +94,18 @@
 
 <div align="center">
 
-### Contribution Activity
+<img src="https://github-readme-stats.vercel.app/api?username=Ic0u&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=888888&count_private=true&rank_icon=github" height="180" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ic0u&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=888888&langs_count=10&hide=css" height="180" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ic0u&bg_color=00000000&color=ffffff&line=888888&point=ffffff&area=true&area_color=1a1a1a&hide_border=true&custom_title=Commit+Activity" />
+<br/>
 
-</div>
-
----
-
-<div align="center">
-
-### The Snake Eats the Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ic0u/Ic0u/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ic0u/Ic0u/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation eating contributions" src="https://raw.githubusercontent.com/Ic0u/Ic0u/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ic0u&theme=transparent&hide_border=true&stroke=1a1a1a&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=555555&mode=weekly" />
 
 </div>
 
 ---
 
 <div align="center">
-
-### Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ic0u&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=ffffff&text_color=888888&count_private=true&include_all_commits=true&rank_icon=percentile" height="170" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ic0u&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888&langs_count=10&hide=html,css,scss" height="170" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ic0u&theme=transparent&hide_border=true&stroke=1a1a1a&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=555555" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ic0u&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888" height="160" />
-
-</div>
-
----
-
-<div align="center">
-
-### Pinned Focus
-
-<a href="https://github.com/Ic0u">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ic0u&repo=https://github.com/Ic0u/TikTok-Video-Downloader&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=ffffff&text_color=888888" />
-</a>
-<a href="https://github.com/Ic0u">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ic0u&repo=Rokio&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=ffffff&text_color=888888" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-  <sub>Thank You For Reading</sub>
+  <img src="https://komarev.com/ghpvc/?username=Ic0u&style=flat-square&color=111111&label=VISITS" />
 </div>
