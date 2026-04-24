@@ -35,50 +35,72 @@
 
 **Systems · Desktop · Embedded**
 
-<img src="https://skillicons.dev/icons?i=rust,swift,linux,bash,arduino&perline=8" />
+<a href="https://www.rust-lang.org/"><img src="https://skillicons.dev/icons?i=rust" /></a>
+<a href="https://www.swift.org/"><img src="https://skillicons.dev/icons?i=swift" /></a>
+<a href="https://www.kernel.org/"><img src="https://skillicons.dev/icons?i=linux" /></a>
+<a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" /></a>
+<a href="https://www.arduino.cc/"><img src="https://skillicons.dev/icons?i=arduino" /></a>
 
 **Web · Frontend**
 
-<img src="https://skillicons.dev/icons?i=svelte,solidjs,react,nextjs,vue,ts,js,tailwind,bootstrap&perline=9" />
+<a href="https://svelte.dev/"><img src="https://skillicons.dev/icons?i=svelte" /></a>
+<a href="https://www.solidjs.com/"><img src="https://skillicons.dev/icons?i=solidjs" /></a>
+<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" /></a>
+<a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" /></a>
+<a href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue" /></a>
+<a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a>
+<a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
+<a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" /></a>
 <br/>
-<img src="https://img.shields.io/badge/shadcn%2Fui-%23111111?style=flat-square&logo=shadcn&logoColor=white" />
+<a href="https://ui.shadcn.com/"><img src="https://raw.githubusercontent.com/Ic0u/Ic0u/main/assets/shadcn.png" width="48" alt="shadcn/ui" /></a>
 
 **Desktop Frameworks**
 
-<img src="https://skillicons.dev/icons?i=tauri&perline=8" />
+<a href="https://tauri.app/"><img src="https://skillicons.dev/icons?i=tauri" /></a>
 
 **Backend · Infra · DevOps**
 
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,docker,aws,git&perline=8" />
+<a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" /></a>
+<a href="https://spring.io/"><img src="https://skillicons.dev/icons?i=spring" /></a>
+<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
+<a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" /></a>
+<a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" /></a>
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a>
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb&perline=8" />
-<br/>
-<img src="https://img.shields.io/badge/SQL_Server-%23111111?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+<a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" /></a>
+<a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
+&nbsp;
+<a href="https://www.microsoft.com/en-us/sql-server"><img src="https://raw.githubusercontent.com/Ic0u/Ic0u/main/assets/icons8-microsoft-sql-server-48.png" width="48" alt="SQL Server" /></a>
 
 **Testing · API · Automation**
 
-<img src="https://skillicons.dev/icons?i=selenium,postman&perline=8" />
+<a href="https://www.selenium.dev/"><img src="https://skillicons.dev/icons?i=selenium" /></a>
+<a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" /></a>
 &nbsp;
-<img src="https://img.shields.io/badge/JUnit-%23111111?style=flat-square&logo=junit5&logoColor=white" />
-<img src="https://img.shields.io/badge/n8n-%23111111?style=flat-square&logo=n8n&logoColor=white" />
+<a href="https://junit.org/junit5/"><img src="https://raw.githubusercontent.com/Ic0u/Ic0u/main/assets/junit.png" width="48" alt="JUnit" /></a>
+<a href="https://n8n.io/"><img src="https://raw.githubusercontent.com/Ic0u/Ic0u/main/assets/n8n.png" width="48" alt="n8n" /></a>
 
 **Reverse Engineering**
 
-<img src="https://img.shields.io/badge/IDA_Pro-%23111111?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/ILSpy-%23111111?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/dnSpy-%23111111?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/dotPeek-%23111111?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Cheat_Engine-%23111111?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/x64dbg-%23111111?style=flat-square&logoColor=white" />
+<a href="https://hex-rays.com/ida-pro/"><img src="https://raw.githubusercontent.com/Ic0u/Ic0u/main/assets/IDAIcon.png" width="48" alt="IDA Pro" /></a>
+<a href="https://github.com/icsharpcode/ILSpy"><img src="https://raw.githubusercontent.com/Ic0u/Ic0u/main/assets/ilspy.png" width="48" alt="ILSpy" /></a>
+<a href="https://github.com/dnSpyEx/dnSpy"><img src="https://raw.githubusercontent.com/Ic0u/Ic0u/main/assets/dnspy.webp" width="48" alt="dnSpy" /></a>
+<a href="https://www.jetbrains.com/decompiler/"><img src="https://raw.githubusercontent.com/Ic0u/Ic0u/main/assets/dotpeek.png" width="48" alt="dotPeek" /></a>
+<a href="https://www.cheatengine.org/"><img src="https://raw.githubusercontent.com/Ic0u/Ic0u/main/assets/Cheat_Engine_2023_Vector_Logo.svg" width="48" alt="Cheat Engine" /></a>
+<a href="https://x64dbg.com/"><img src="https://raw.githubusercontent.com/Ic0u/Ic0u/main/assets/x86dg.png" width="48" alt="x64dbg" /></a>
 
 **Creative**
 
-<img src="https://skillicons.dev/icons?i=ps,ai,ae,pr&perline=8" />
+<a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=ps" /></a>
+<a href="https://www.adobe.com/products/illustrator.html"><img src="https://skillicons.dev/icons?i=ai" /></a>
+<a href="https://www.adobe.com/products/aftereffects.html"><img src="https://skillicons.dev/icons?i=ae" /></a>
+<a href="https://www.adobe.com/products/premiere.html"><img src="https://skillicons.dev/icons?i=pr" /></a>
 <br/>
-<img src="https://img.shields.io/badge/Final_Cut_Pro-%23111111?style=flat-square&logo=apple&logoColor=white" />
-<img src="https://img.shields.io/badge/CapCut-%23111111?style=flat-square&logoColor=white" />
+<a href="https://www.apple.com/final-cut-pro/"><img src="https://raw.githubusercontent.com/Ic0u/Ic0u/main/assets/finalcutpro.png" width="48" alt="Final Cut Pro" /></a>
+<a href="https://www.capcut.com/"><img src="https://raw.githubusercontent.com/Ic0u/Ic0u/main/assets/Capcut-icon.svg.png" width="48" alt="CapCut" /></a>
 
 </div>
 
